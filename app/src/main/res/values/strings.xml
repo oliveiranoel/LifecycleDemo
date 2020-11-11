@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifecycleDemo</string>
+    <string name="text_update">Update Text</string>
+    <string name="text_updated"></string>
+</resources>
